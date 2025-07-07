@@ -1,0 +1,13 @@
+.Card{
+    width: 15vw;
+    margin-top: 20px;
+    border : 2px solid black;
+}
+
+.Card h1{
+    text-align: center;
+}
+
+.Card p{
+    font-size: 20px;
+}

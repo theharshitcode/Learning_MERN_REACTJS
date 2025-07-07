@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+#root {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px;
+  padding-left: 50px;
+}
+
+.card {
+  width: 50vw;
+  gap: 35px;
+  border: 2px solid rgb(98, 97, 97);
+  border-radius: 20px;
+  margin: 4px;
+  padding: 5px;
+  background-color: rgb(208, 253, 238);
+}
+
+.title {
+  font-size: large;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.disc {
+  font-size: large;
+  font-weight: 500;
+}
+
+.id {
+  font-weight: 700;
+
+}
+
+.body {
+  margin-top: 10px;
+  font-size: large;
+  font-weight: 500;
+}

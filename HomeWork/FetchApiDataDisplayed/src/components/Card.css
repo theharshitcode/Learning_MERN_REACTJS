@@ -1,0 +1,18 @@
+.card{
+    width: 20vw;
+    border: 2px solid rgb(98, 97, 97);
+    border-radius: 20px;
+    margin: 4px;
+    padding: 5px;
+    background-color: rgb(208, 253, 238);
+}
+.title{
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.disc{
+    font-size: large;
+    font-weight: 500;
+}
